@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.idea/
+*.log
+.env
+
+# Large local assets (keep on disk, not in git)
+AtoZ_3.1/
+*.docx
+*.pptx

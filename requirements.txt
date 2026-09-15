@@ -1,0 +1,10 @@
+# SignBridge — Author: Srishti Singh
+opencv-python>=4.8.0
+numpy>=1.24.0
+tensorflow>=2.13.0
+keras>=2.13.0
+cvzone>=1.6.0
+mediapipe>=1.0.0
+pyttsx3>=2.90
+Pillow>=10.0.0
+pyenchant>=3.2.0
